@@ -14,4 +14,4 @@ We collect annual frequency experimental data for various countries from the fol
 - Data from Angus Maddison is also used for population growth, <img src="https://render.githubusercontent.com/render/math?math=n">.
 - Data for <img src="https://render.githubusercontent.com/render/math?math=\theta"> is from Brock and Taylor, but was originally from the OECD.
 - Data for <img src="https://render.githubusercontent.com/render/math?math=e_t"> is from the World Bank
-- Data for <img src="https://render.githubusercontent.com/render/math?math=g_A"> and <img src="https://render.githubusercontent.com/render/math?math=g_B"> are from Brock and Taylor. The former is estimated via regression while the latter is estimated as <img src="https://render.githubusercontent.com/render/math?math=n+g_B+\delta=0.05">
+- Data for <img src="https://render.githubusercontent.com/render/math?math=g_A"> and <img src="https://render.githubusercontent.com/render/math?math=g_B"> are from Brock and Taylor. The former is estimated via regression while the latter is estimated as <img src="https://render.githubusercontent.com/render/math?math=n\+g_B\+\delta=0.05">
